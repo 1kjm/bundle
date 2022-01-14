@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724884019508",
+    "firebase_url": "https://bundlesampled.firebaseio.com",
+    "project_id": "bundlesampled",
+    "storage_bucket": "bundlesampled.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724884019508:android:54dd7fd2ede019d9c9ad61",
+        "android_client_info": {
+          "package_name": "com.example.bundle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724884019508-um38ogsnvngq5sip5b965oha5kbv1rpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAspA0nqytJaQfBTcMogDskupdIMzUupO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724884019508-um38ogsnvngq5sip5b965oha5kbv1rpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
